@@ -1,0 +1,42 @@
+org/firstinspires/ftc/teamcode/SolutionTeleop.java
+ org.firstinspires.ftc.teamcode.SolutionTeleop
+org/firstinspires/ftc/teamcode/HardwareCoppy.java
+ org.firstinspires.ftc.teamcode.HardwareCoppy
+org/firstinspires/ftc/teamcode/PokemonTheAnime.java
+ org.firstinspires.ftc.teamcode.PokemonTheAnime
+org/firstinspires/ftc/teamcode/CancerTeleop2.java
+ org.firstinspires.ftc.teamcode.CancerTeleop2
+org/firstinspires/ftc/teamcode/Hardware.java
+ org.firstinspires.ftc.teamcode.Hardware
+org/firstinspires/ftc/teamcode/MeasureTheDriveThenDoTheDrive.java
+ org.firstinspires.ftc.teamcode.MeasureTheDriveThenDoTheDrive
+org/firstinspires/ftc/teamcode/F0.java
+ org.firstinspires.ftc.teamcode.F0
+org/firstinspires/ftc/teamcode/BroccoliTest.java
+ org.firstinspires.ftc.teamcode.BroccoliTest
+org/firstinspires/ftc/teamcode/BroccoliTeleop.java
+ org.firstinspires.ftc.teamcode.BroccoliTeleop
+org/firstinspires/ftc/teamcode/FTCLib_weirdDrive.java
+ org.firstinspires.ftc.teamcode.FTCLib_weirdDrive
+org/firstinspires/ftc/teamcode/FTCLib_test_hardware.java
+ org.firstinspires.ftc.teamcode.FTCLib_test_hardware
+org/firstinspires/ftc/teamcode/Robot.java
+ org.firstinspires.ftc.teamcode.Robot
+org/firstinspires/ftc/teamcode/mecanum.java
+ org.firstinspires.ftc.teamcode.mecanum
+org/firstinspires/ftc/teamcode/CancerTeleop.java
+ org.firstinspires.ftc.teamcode.CancerTeleop
+org/firstinspires/ftc/teamcode/PokemonTelemetry.java
+ org.firstinspires.ftc.teamcode.PokemonTelemetry
+org/firstinspires/ftc/teamcode/BuildConfig.java
+ org.firstinspires.ftc.teamcode.BuildConfig
+org/firstinspires/ftc/teamcode/LibPID.java
+ org.firstinspires.ftc.teamcode.LibPID
+org/firstinspires/ftc/teamcode/F0teleop.java
+ org.firstinspires.ftc.teamcode.F0teleop
+org/firstinspires/ftc/teamcode/gyroMWC.java
+ org.firstinspires.ftc.teamcode.gyroMWC
+org/firstinspires/ftc/teamcode/straight.java
+ org.firstinspires.ftc.teamcode.straight
+org/firstinspires/ftc/teamcode/gyroSWC.java
+ org.firstinspires.ftc.teamcode.gyroSWC
